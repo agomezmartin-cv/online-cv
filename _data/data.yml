@@ -4,65 +4,61 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Alberto Gómez Martín
+    tagline: Ingeniero de localización y traductor
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: agomezmartinpro@gmail.com
+    phone: +34 665042685
+    timezone: Madrid, España
+    citizenship: España
+    website: #do not add http://
+    linkedin: albertogomezmartin
+    xing: 
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: ''
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: English
-          level: Native
+        - idiom: Español
+          level: Nativo
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Inglés
+          level: Profesional
 
     interests:
-      title: Interests
+      title: Intereses
       info:
-        - item: Climbing
+        - item: Finanzas e inversión
           link:
 
-        - item: Snowboarding
+        - item: Meditación
           link:
 
-        - item: Cooking
+        - item: Música
           link:
 
 career-profile:
-    title: Career Profile
+    title: Sobre mí
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      He vivido en Londres, Reino Unido once años. Durante estos años realicé mis estudios universitarios (música clásica y traducción) así como el principio de mi carrera profesional.
+    Trabajé durante siete años en el departamento de <mark>Eventos Privados</mark> del Museo Británico, y en teatros del West End como parte del equipo de <mark>atención al cliente</mark>.
+
+    Me considero un profesional dinámico que afronta nuevos retos con ilusión y eficacia.
+    En la actualidad he decidido cambiar mi carrera corporativa para reciclarme y volver a estar en contacto con el cliente me llena de motivación.
 education:
     title: Education
     info:
