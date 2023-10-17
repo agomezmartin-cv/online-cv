@@ -70,163 +70,109 @@ education:
         time: 2012 - 2013
         details: |
           Máster especializado en las tres grandes vertientes técnicas de la traducción y tradumática.
-
           Gestión de proyectos, traducción asistida por ordenador (TAO).
+
       - degree: Grado en Traducción
         university: Universidad de Westminster
         time: 2009 - 2012
         details: |
           Durante este grado desarrollé aptitudes de traducción tanto directa como inversa de inglés y español así como introducción a estudios interculturales e interpretación.
 
+      - degree: Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (Bilingüe)
+        university: I.E.S. Islas Filipinas
+        time: 2021 - 2022
+        details: |
+          Realicé el primer curso de este curso de Formación Profesional.
+
+      - degree: DESARROLLO DE APLICACIONES EMPRESARIALES JAVA J2EE 7 (ORACLE)
+        university: Core Networks
+        time: 2022 - 2022
+        details: |
+          Desarrollo de aplicaciones Empresariales con J2EE7 (Oracle).
+            - Javas
+            - SpringBoot
+            - Angular
+
+      - degree: VISUALIZACIÓN DE DATOS CON PYTHON
+        university: CRN Desarrollo de informática y la información
+        time: 2022 - 2022
+        details: |
+          Creación de plataformas web para la visualización de datos obtenidos de bases de datos.
+            - Python
+            - Django
+            - Pandas
+
+      - degree: DESARROLLO DE APLICACIONES EMPRESARIALES JAVA J2SE 7 (ORACLE)
+        university: CRN Desarrollo de informática y la información
+        time: 2023 - En la actualidad
+        details: |
+          Creación de aplicaciones con la API de Java Standard Edition
+
 experiences:
-    title: Experiences
+    title: Experiencia laboral
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Technical Services Lead
+        time: 2018 - 2021
+        company: ACOLAD, Madrid
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+          Responsable de la totalidad del ciclo de producción de los proyectos de localización.
+
+          <mark>Gestor de prooyectos técnicos</mark>
+            - Análisis de requisistos de cliente
+            - Creación de presupuestos
+            - Redacción de procesos
+
+          <mark>Ingeniería de localización</mark>
+            - Preparación de archivos
+            - Configuración de herramientas de traducción asistida
+            - Creación de recuentos
+
+      - role: Ingeniero de localización
+        time: 2015 - 2018
+        company: Transperfect, Barcelona y Madrid
+        details: |
+          Analista:
+            - Análisis de requisitos de cliente
+            - Creación de presupuestos
+            - Redacción de procesos
+
+      - role: Asistente de conversación
         time: 2014 - 2015
-        company: Google, London
+        company: The London Oratory School, Londres
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Asistente de conversación. Preparación de exámenes orales de alumnos de primero y segundo de bachillerato en Londres, Inglaterra.
+
+      - role: Atención al Cliente
+        time: 2011 - 2013
+        company: Aldwych Theatre, Londres
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Personal del equipo de atención al cliente en el museo.
+            - Recepción
+            - Camarero de barra
+            - Venta de merchandising
+            
+      - role: Camarero
+        time: 2006 - 2012
+        company: DO&CO en el Museo Británico, Londres
+        details: |
+          Departamento de Eventos Privados en el Museo Británico de Londres. Camarero de sala en eventos de catering.
+            - Preparación de sala
+            - Recepción de clientes
 
 certifications:
-      title: Certifications
+      title: Certificaciones
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
+        - name: SDL Trados Studio 2011 para Traductores. Intermedio
+          start: 2013
+          end: 2013
+          organization: SDL Studio
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: https://oos.sdl.com/asp/products/certified/index.asp?userid=097ca210-7c13-4663-81ee-6ec689e4bdfe
+          credentialname: RWS
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+            Certificación obtenida tras la superación del examen del programa de Traducción Asistida por Ordenador SDL Trados.
+              - Configuración de proyectos
+              - Creación de recuentos
 
 skills:
     title: Skills &amp; Proficiency
