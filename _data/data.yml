@@ -175,26 +175,20 @@ certifications:
               - Creación de recuentos
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades
 
     toolset:
-      - name: Python & Django
+      - name: Inglés
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Español
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: Ofimática
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Atención al cliente
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
