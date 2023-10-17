@@ -48,6 +48,9 @@ sidebar:
         - item: Meditación
           link:
 
+        - item: Jardinería
+          link:
+
         - item: Música
           link:
 
@@ -60,30 +63,20 @@ career-profile:
       Me considero un profesional dinámico que afronta nuevos retos con ilusión y eficacia.
       En la actualidad he decidido cambiar mi carrera corporativa para reciclarme y volver a estar en contacto con el cliente me llena de motivación.
 education:
-    title: Education
+    title: Formación académica
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc en Traducción médica, técnica y científica con tecnología de la traducción
+        university: Imperial College London
+        time: 2012 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Máster especializado en las tres grandes vertientes técnicas de la traducción y tradumática.
+
+          Gestión de proyectos, traducción asistida por ordenador (TAO).
+      - degree: Grado en Traducción
+        university: Universidad de Westminster
+        time: 2009 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Durante este grado desarrollé aptitudes de traducción tanto directa como inversa de inglés y español así como introducción a estudios interculturales e interpretación.
 
 experiences:
     title: Experiences
